@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/aligatr'
 
   s.source = {
-    http: "https://github.com/fjtrujy/SwiftGen/releases/download/6.1.1/swiftgen-6.1.1.zip"
+    http: "https://github.com/addisonglobal/SwiftGen/releases/download/6.1.1/swiftgen-6.1.1.zip"
   }
   s.preserve_paths = '*'
   s.exclude_files = '**/file.zip'
